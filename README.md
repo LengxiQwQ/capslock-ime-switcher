@@ -1,13 +1,13 @@
-# 🎉 一个大写键改输入法切换的工具（多版本）
 # 🎉 CapsLock Input Method Switcher (Multi-Version)
-
-**AutoHotkey v2 输入法切换增强脚本 - 作者：LengxiQwQ**
+# 一个大写键改成输入法切换的工具（保留大写功能）
 
 [![Author](https://img.shields.io/badge/author-LengxiQwQ-green)](https://github.com/LengxiQwQ)
 [![GitHub Repo](https://img.shields.io/badge/repo-CapsLock%20InputSwitcher-blue)](https://github.com/LengxiQwQ/CapsLock-InputSwitcher)
 ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-v2.0+-blue?logo=autohotkey)
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010|11-lightgrey?logo=windows)
 ![Release](https://img.shields.io/github/v/release/lengxiQwQ/Capslock-IME-Switcher?label=Latest%20Release&color=orange)
+
+**AutoHotkey v2 输入法切换增强脚本 - 作者：LengxiQwQ**
 
 欢迎来到这个 **超级实用、可自由选择版本** 的输入法切换脚本合集！
  脚本基于 **AutoHotkey v2** 编写，专注于让你更丝滑地切换输入法，尤其适合 Windows 上多中文输入法 + 英文输入法的用户。
