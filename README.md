@@ -92,7 +92,7 @@
 
 ### 设置开机启动，不然每次开机都要手动开启，方法如下：
 
-按 `Win + R` 输入 `shell:startup` 打开启动文件夹，把 `脚本`或`.exe`文件直接放进去即可
+按 `Win + R` 输入 `shell:startup` 打开启动文件夹，把 `.ahk`或`.exe`文件直接放进去即可
 
 或者直接打开这个路径：`C:\Users\[输入你的用户名]\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
 
