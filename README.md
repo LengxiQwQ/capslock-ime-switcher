@@ -74,12 +74,13 @@
 
 ### 需要开机启动，不然每次开机都要手动开启，方法如下：
 
-按 `Win + R` 输入 `shell:startup`，把 `脚本`或`.exe`文件直接放进去即可
-或者打开这个路径：`C:\Users\[输入你的用户名]\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
+按 `Win + R` 输入 `shell:startup` 打开启动文件夹，把 `脚本`或`.exe`文件直接放进去即可
+
+或者直接打开这个路径：`C:\Users\[输入你的用户名]\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
 
 - 本脚本依赖 **AutoHotkey v2**（仅源代码版需要）
 - 多输入法显示依赖 Windows 的 HKL 机制，不同软件查询能力不同
-- WhatsApp 桌面版限制多，因此不同版本显示效果可能不同（表格已注明）
+- WhatsApp 等非标准 Win32 窗口限制多，因此不同版本显示效果可能不同（表格已注明）
 
 ------
 
@@ -89,10 +90,6 @@
 源代码版依赖 AutoHotkey v2
  EXE 版免安装，双击运行即可。
 
-（内容保持你的原文）
-
 ------
 
 # ❤️ 感谢使用！ 
-
-如果你喜欢这个脚本： ⭐ 给个 Star 就是对我最大的支持！
