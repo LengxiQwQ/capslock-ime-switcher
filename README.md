@@ -1,5 +1,5 @@
-# 🎉 CapsLock Input Method Switcher (Multi-Version)
-# 一个大写键改成输入法切换的工具（保留大写功能）
+## 🎉 CapsLock Input Method Switcher (Multi-Version)
+## 一个大写键改成输入法切换的工具（保留大写功能）
 
 [![Author](https://img.shields.io/badge/author-LengxiQwQ-green)](https://github.com/LengxiQwQ)
 [![GitHub Repo](https://img.shields.io/badge/repo-CapsLock%20InputSwitcher-blue)](https://github.com/LengxiQwQ/CapsLock-InputSwitcher)
@@ -20,7 +20,7 @@
 
 ------
 
-# ⭐ 具体功能
+## ⭐ 具体功能
 
 - 将不常用的 **CapsLock** 改成 **输入法切换键**，点击即可切换输入法。
  
@@ -34,7 +34,7 @@
 
 ------
 
-# 📥 下载方式（源代码 + EXE）
+## 📥 下载方式（源代码 + EXE）
 
 本项目同时提供两种下载方式，让你按需选择：
 
@@ -66,7 +66,7 @@
 ------
 
 
-# 📦 所有版本一览
+## 📦 所有版本一览
 
 | 版本                                              | 特点概述                                   | 输入法【中英】名称显示             | 多输入法支持 | WhatsApp 等非标准 Win32 窗口 | 适合人群             |
 | ------------------------------------------------- | ------------------------------------------ | ---------------------------------- | ------------ | ---------------------------- | -------------------- |
@@ -80,7 +80,7 @@
 
 ------
 
-# 📝 安装方法
+## 📝 安装方法
 
 源代码版依赖 `AutoHotkey v2` `.exe` 版免安装，双击运行即可。
 
@@ -93,7 +93,7 @@
 ------
 
 
-# 💬 使用须知 & 小提示
+## 💬 使用须知 & 小提示
 
 - 本脚本依赖 **AutoHotkey v2**（仅源代码版需要）
  
@@ -103,4 +103,4 @@
 
 ------
 
-# ❤️ 感谢使用！ 
+## ❤️ 感谢使用！ 
