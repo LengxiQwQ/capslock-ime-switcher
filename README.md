@@ -1,4 +1,5 @@
-# 🎉 CapsLock 输入法切换工具（多版本）
+# 🎉 一个大写键改输入法切换的工具（多版本）
+# 🎉 CapsLock Input Method Switcher (Multi-Version)
 
 **AutoHotkey v2 输入法切换增强脚本 - 作者：LengxiQwQ**
 
@@ -70,6 +71,11 @@
 ------
 
 # 💬 使用须知 & 小提示
+
+### 需要开机启动，不然每次开机都要手动开启，方法如下：
+
+按 `Win + R` 输入 `shell:startup`，把 `脚本`或`.exe`文件直接放进去即可
+或者打开这个路径：`C:\Users\[输入你的用户名]\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
 
 - 本脚本依赖 **AutoHotkey v2**（仅源代码版需要）
 - 多输入法显示依赖 Windows 的 HKL 机制，不同软件查询能力不同
