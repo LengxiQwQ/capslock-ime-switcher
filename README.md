@@ -2,7 +2,7 @@
 ## 一个大写键改成输入法切换的工具（保留大写功能）
 
 [![Author](https://img.shields.io/badge/author-LengxiQwQ-green)](https://github.com/LengxiQwQ)
-[![GitHub Repo](https://img.shields.io/badge/repo-CapsLock%20InputSwitcher-blue)](https://github.com/LengxiQwQ/CapsLock-InputSwitcher)
+[![GitHub Repo](https://img.shields.io/badge/repo-CapsLock%20InputSwitcher-blue)](https://github.com/LengxiQwQ/Capslock-IME-Switcher)
 ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-v2.0+-blue?logo=autohotkey)
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010|11-lightgrey?logo=windows)
 ![Release](https://img.shields.io/github/v/release/lengxiQwQ/Capslock-IME-Switcher?label=Latest%20Release&color=orange)
