@@ -38,7 +38,7 @@
 
 - 多版本选择，让你挑到最适合自己的脚本
 
-------
+  ------
 
 - ## 🧠 实现逻辑（原理）
 
@@ -61,9 +61,9 @@
 
   通过 Windows API：
 
-  - `GetForegroundWindow`
-  - `GetKeyboardLayout`
-  - `GetKeyboardLayoutList`
+  - **`GetForegroundWindow`**
+  - **`GetKeyboardLayout`**
+  - **`GetKeyboardLayoutList`**
 
   读取当前窗口使用的 **HKL（16 进制键盘布局值）** 来判断当前语言
 
@@ -87,7 +87,7 @@
 
   #### **B. 精准识别（多输入法检测版）**
 
-  - 用 `GetKeyboardLayoutList` 区分多个中文输入法
+  - 用 **`GetKeyboardLayoutList`** 区分多个中文输入法
   - 中文 HKL 下使用 IME（Imm32）进一步判断中英模式
 
   **特点：**
@@ -99,7 +99,7 @@
 
   提示内容依版本变化：
 
-  `中`  `EN`  `A`  `未知`  还有无提示版本
+  **`中`  `EN`  `A`  `未知`**  还有无提示版本
 
   提示跟随光标布局，不挡输入区域
 
@@ -117,9 +117,11 @@
 
   ### 6. 🛡 兜底输入法切换机制
 
-  如果主切换失败，则模拟：`Send "{Blind}{LWin down}{Space}{LWin up}`
+  如果主切换失败，则使用：`Send "{Blind}{LWin down}{Space}{LWin up}"`
 
   实现 **Win + Space 强制切换**
+
+  
 
 ## 📥 下载方式（EXE + 脚本源代码）
 
