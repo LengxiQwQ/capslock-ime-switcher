@@ -1,0 +1,25 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Build outputs
+*.exe
+*.zip
+*.7z
+*.rar
+bin/
+obj/
+
+# IDE
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# AutoHotkey compiled
+*.ahk.exe
+
+# Temp files
+*.tmp
+*.log
